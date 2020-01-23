@@ -1,0 +1,20 @@
+
+/*css override*/
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+
+/*footer*/
+.padding_custom{
+	padding: 30px 30px;
+}
+.child-rows{
+	padding-left: 15px;
+    background: #FFF;
+}
+.custom_nav{
+	margin-top: 10px;
+    margin-bottom: -8px;
+}
+
+
